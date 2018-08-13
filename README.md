@@ -1,5 +1,5 @@
 # my_ssh
 
-Multi SSH session tool   
+Multi SSH-sessions tool   
 - libssh is for SSH  
 - Qt for GUI
