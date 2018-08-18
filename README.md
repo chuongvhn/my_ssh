@@ -1,4 +1,4 @@
-# my_ssh
+# MySSH
 
 Multi SSH-session-tabs tool   
 - libssh is for SSH  
